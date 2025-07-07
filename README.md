@@ -1,7 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ytAIXJ0n)
-# Assignment 2
 ## Mudd 2nd Floor Rare Class Classification of Images
-## EECS E6691 2025 Spring
 
 Please read the entirety of this README file, which contains description of the instructions on completing the assignment and submission details. You will need to modify this file before submission.
 
