@@ -1,0 +1,14 @@
+Barricade
+Traffic cone
+Traffic barrel
+Scaffold
+Trailer truck
+Police car
+Ambulance
+Firecar
+Excavator
+Construction truck
+Car moving truck
+Offroad parking
+Construction car
+Construction worker

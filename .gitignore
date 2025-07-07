@@ -1,0 +1,17 @@
+./data/2ndFloorData/
+
+# notebook
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+
+*.zip
+2ndFloorData/
+
+2ndFloorData/
+
+venv/
+models/
+
+model_weights.pth
